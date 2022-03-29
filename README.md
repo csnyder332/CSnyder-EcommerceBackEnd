@@ -21,6 +21,8 @@
 
   ## Usage
   ![image](https://user-images.githubusercontent.com/95385092/160664314-5002aa5c-92da-4ff4-b21a-53c212ca9b99.png)
+  ![image](https://user-images.githubusercontent.com/95385092/160682669-7e3b62c4-db7f-4d73-97c9-b37f50384aac.png)
+
 
 
   ## Contribute
@@ -40,6 +42,7 @@
   
   ## Links
   Repository: https://github.com/csnyder332/CSnyder-EcommerceBackEnd
+  Walkthrough: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/62a4787e-4171-4687-y1db-42ba76fd61c0
   
   
   
