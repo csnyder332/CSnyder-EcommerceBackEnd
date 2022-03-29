@@ -12,7 +12,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribute](#contribute)
-  - [Features](#features)
   - [Tests](#tests)
   - [questions?](#Questions)
   - [License](#license)
@@ -21,14 +20,11 @@
   Install MySQL, express, sequelize. Source and seed the db, and test via Insomnia.
 
   ## Usage
-  
+  ![image](https://user-images.githubusercontent.com/95385092/160664314-5002aa5c-92da-4ff4-b21a-53c212ca9b99.png)
+
 
   ## Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)
-  
-
-
-  ## Features
   
 
   ## Tests
@@ -41,6 +37,9 @@
 
   ## License
   ![NPM](https://img.shields.io/npm/l/inquirer)
+  
+  ## Links
+  Repository: https://github.com/csnyder332/CSnyder-EcommerceBackEnd
   
   
   
