@@ -41,8 +41,9 @@
   ![NPM](https://img.shields.io/npm/l/inquirer)
   
   ## Links
-  Repository: https://github.com/csnyder332/CSnyder-EcommerceBackEnd
+  Repository: https://github.com/csnyder332/CSnyder-EcommerceBackEnd  
   Walkthrough: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/62a4787e-4171-4687-y1db-42ba76fd61c0
+  
   
   
   
